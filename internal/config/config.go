@@ -24,6 +24,8 @@ func Read() (Config, error) {
 	if err != nil {
 		return Config{}, err
 	}
+	defer file.Close()
+
 	decoder := json.NewDecoder(file)
 	err = decoder.Decode(&config)
 
@@ -52,17 +54,28 @@ func write(cfg Config) error {
 	if err != nil {
 		return err
 	}
-	file, err := os.Create(configFilePath)
+	// Create temp file for atomic write
+	tmpFile, err := os.CreateTemp(filepath.Dir(configFilePath), "*.tmp")
+
 	if err != nil {
 		return err
 	}
-	defer file.Close()
 
-	encoder := json.NewEncoder(file)
+	defer os.Remove(tmpFile.Name())
+	defer tmpFile.Close()
+
+	encoder := json.NewEncoder(tmpFile)
 	err = encoder.Encode(cfg)
 
 	if err != nil {
 		return err
+	}
+	if err := tmpFile.Close(); err != nil {
+		return fmt.Errorf("failed to close temp file: %w", err)
+	}
+	// Atomic rename
+	if err := os.Rename(tmpFile.Name(), configFilePath); err != nil {
+		return fmt.Errorf("failed to write config file: %w", err)
 	}
 	return nil
 }
