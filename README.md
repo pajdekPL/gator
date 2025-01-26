@@ -25,9 +25,18 @@ goose postgres <connection_string> up
 goose postgres <connection_string> down
 ```
 
+# sqlc code generation 
+
+generate code based on the files in the `sql/queries` dir
+
+```bash 
+sqlc generate
+```
 # go postgress driver
 
-`go get github.com/lib/pq`
-`import _ "github.com/lib/pq"`
+```bash
+go get github.com/lib/pq
+import _ "github.com/lib/pq"
+```
 
 "You have to import the driver, but you don't use it directly anywhere in your code. The underscore tells Go that you're importing it for its side effects, not because you need to use it."
