@@ -60,6 +60,26 @@ func handlerLogin(s *state, cmd command) error {
 	return nil
 }
 
+func handlerUsers(s *state, cmd command) error {
+	if len(cmd.Args) != 0 {
+		return fmt.Errorf("usage: %v", cmd.Name)
+	}
+	users, err := s.db.GetUsers(context.Background())
+
+	if err != nil {
+		return err
+	}
+
+	for _, user := range users {
+		if s.config.CurrentUserName == user.Name {
+			fmt.Println("*", user.Name, "(current)")
+			continue
+		}
+		fmt.Println("*", user.Name)
+	}
+	return nil
+}
+
 func handlerReset(s *state, cmd command) error {
 	if len(cmd.Args) != 0 {
 		return fmt.Errorf("usage: %v", cmd.Name)
