@@ -15,11 +15,11 @@ func handlerRegister(s *state, cmd command) error {
 		return fmt.Errorf("usage: %v <name>", cmd.Name)
 	}
 	username := cmd.Args[0]
-
+	creationTime := time.Now().UTC()
 	user := database.CreateUserParams{
 		ID:        uuid.New(),
-		CreatedAt: time.Now().UTC(),
-		UpdatedAt: time.Now().UTC(),
+		CreatedAt: creationTime,
+		UpdatedAt: creationTime,
 		Name:      username,
 	}
 
