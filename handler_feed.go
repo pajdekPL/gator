@@ -22,7 +22,7 @@ func handlerFeeds(s *state, cmd command) error {
 	for _, feed := range feeds {
 		fmt.Printf("* Feed name: 			%s\n", feed.Name)
 		fmt.Printf("* Feed URL: 			%s\n", feed.Url)
-		fmt.Printf("* Added by: 			%s\n", feed.UserName)
+		fmt.Printf("* Added by: 			%s\n", feed.CreatedBy)
 
 	}
 	return nil
@@ -55,6 +55,19 @@ func handlerAddFeed(s *state, cmd command) error {
 	}
 
 	createdFeed, err := s.db.CreateFeed(context.Background(), feed)
+	if err != nil {
+		return err
+	}
+
+	feedFollow := database.CreateFollowFeedParams{
+		ID:        uuid.New(),
+		CreatedAt: creationTime,
+		UpdatedAt: creationTime,
+		UserID:    userUUID.ID,
+		FeedID:    feed.ID,
+	}
+	_, err = s.db.CreateFollowFeed(context.Background(), feedFollow)
+
 	if err != nil {
 		return err
 	}
