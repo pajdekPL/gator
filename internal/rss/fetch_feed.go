@@ -5,6 +5,7 @@ import (
 	"encoding/xml"
 	"html"
 	"net/http"
+	"time"
 )
 
 type RSSFeed struct {
@@ -23,6 +24,10 @@ type RSSItem struct {
 	PubDate     string `xml:"pubDate"`
 }
 
+var (
+	defaultTimeout = 10 * time.Second
+)
+
 func FetchFeed(ctx context.Context, feedURL string) (*RSSFeed, error) {
 	var rssFeed RSSFeed
 	req, err := http.NewRequestWithContext(ctx, "GET", feedURL, nil)
@@ -30,7 +35,10 @@ func FetchFeed(ctx context.Context, feedURL string) (*RSSFeed, error) {
 		return &RSSFeed{}, err
 	}
 	req.Header.Set("User-Agent", "gator")
-	res, err := http.DefaultClient.Do(req)
+	client := &http.Client{
+		Timeout: defaultTimeout,
+	}
+	res, err := client.Do(req)
 	if err != nil {
 		return &RSSFeed{}, err
 	}
