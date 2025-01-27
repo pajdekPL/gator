@@ -14,7 +14,7 @@ func handlerFeeds(s *state, cmd command) error {
 	if len(cmd.Args) != 0 {
 		return fmt.Errorf("usage %s", cmd.Name)
 	}
-	feeds, err := s.db.GetFeeds(context.Background())
+	feeds, err := s.db.GetFeedsWithUserName(context.Background())
 
 	if err != nil {
 		return err
