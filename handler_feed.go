@@ -28,7 +28,7 @@ func handlerFeeds(s *state, cmd command) error {
 	return nil
 }
 
-func handlerAddFeed(s *state, cmd command) error {
+func handlerAddFeed(s *state, cmd command, user database.User) error {
 	if len(cmd.Args) != 2 {
 		return fmt.Errorf("usage %s <feed_name> <url>", cmd.Name)
 	}
@@ -39,10 +39,6 @@ func handlerAddFeed(s *state, cmd command) error {
 		return fmt.Errorf("incorrect url: %v", err)
 	}
 	feedName := cmd.Args[0]
-	userUUID, err := s.db.GetUser(context.Background(), s.config.CurrentUserName)
-	if err != nil {
-		return fmt.Errorf("problem with getting current user uuid %v", err)
-	}
 
 	creationTime := time.Now().UTC()
 	feed := database.CreateFeedParams{
@@ -51,7 +47,7 @@ func handlerAddFeed(s *state, cmd command) error {
 		UpdatedAt: creationTime,
 		Name:      feedName,
 		Url:       url.String(),
-		UserID:    userUUID.ID,
+		UserID:    user.ID,
 	}
 
 	createdFeed, err := s.db.CreateFeed(context.Background(), feed)
@@ -63,7 +59,7 @@ func handlerAddFeed(s *state, cmd command) error {
 		ID:        uuid.New(),
 		CreatedAt: creationTime,
 		UpdatedAt: creationTime,
-		UserID:    userUUID.ID,
+		UserID:    user.ID,
 		FeedID:    feed.ID,
 	}
 	_, err = s.db.CreateFollowFeed(context.Background(), feedFollow)

@@ -11,7 +11,7 @@ import (
 	"github.com/pajdekpl/gator/internal/database"
 )
 
-func handlerFollow(s *state, cmd command) error {
+func handlerFollow(s *state, cmd command, user database.User) error {
 	if len(cmd.Args) != 1 {
 		return fmt.Errorf("usage %s <url>", cmd.Name)
 	}
@@ -31,11 +31,6 @@ func handlerFollow(s *state, cmd command) error {
 		return err
 	}
 
-	user, err := s.db.GetUser(context.Background(), s.config.CurrentUserName)
-
-	if err != nil {
-		return err
-	}
 	creationTime := time.Now().UTC()
 
 	feedFollow := database.CreateFollowFeedParams{
@@ -54,12 +49,12 @@ func handlerFollow(s *state, cmd command) error {
 	return nil
 }
 
-func handlerFollowing(s *state, cmd command) error {
+func handlerFollowing(s *state, cmd command, user database.User) error {
 	if len(cmd.Args) != 0 {
 		return fmt.Errorf("usage %s", cmd.Name)
 	}
 
-	feeds, err := s.db.GetFeedFollowsForUser(context.Background(), s.config.CurrentUserName)
+	feeds, err := s.db.GetFeedFollowsForUser(context.Background(), user.ID)
 
 	if err != nil {
 		return err
@@ -68,5 +63,21 @@ func handlerFollowing(s *state, cmd command) error {
 		fmt.Println(feed.FeedName)
 	}
 
+	return nil
+}
+
+func handlerUnfollow(s *state, cmd command, user database.User) error {
+	if len(cmd.Args) != 1 {
+		return fmt.Errorf("usage %s <feed_url>", cmd.Name)
+	}
+
+	err := s.db.UnfollowFeed(context.Background(), database.UnfollowFeedParams{
+		UserID: user.ID,
+		Url:    cmd.Args[0],
+	})
+
+	if err != nil {
+		return err
+	}
 	return nil
 }
