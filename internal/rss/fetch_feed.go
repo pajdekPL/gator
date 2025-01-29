@@ -62,7 +62,6 @@ func FetchFeed(ctx context.Context, feedURL string) (*RSSFeed, error) {
 
 func PrintFeedItemsTitles(rssFeed *RSSFeed) {
 	for _, rssItem := range rssFeed.Channel.Item {
-		rssItem.Title = html.UnescapeString(rssItem.Title)
 		fmt.Println("* ", rssItem.Title)
 	}
 }
