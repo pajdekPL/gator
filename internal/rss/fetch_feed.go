@@ -3,6 +3,7 @@ package rss
 import (
 	"context"
 	"encoding/xml"
+	"fmt"
 	"html"
 	"net/http"
 	"time"
@@ -57,4 +58,11 @@ func FetchFeed(ctx context.Context, feedURL string) (*RSSFeed, error) {
 		rssFeed.Channel.Item[i] = rssItem
 	}
 	return &rssFeed, nil
+}
+
+func PrintFeedItemsTitles(rssFeed *RSSFeed) {
+	for _, rssItem := range rssFeed.Channel.Item {
+		rssItem.Title = html.UnescapeString(rssItem.Title)
+		fmt.Println("* ", rssItem.Title)
+	}
 }
