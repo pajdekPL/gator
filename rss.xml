@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Technology</title>
+    <link>https://www.nytimes.com/section/technology</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2025 The New York Times Company</copyright>
+    <lastBuildDate>Wed, 29 Jan 2025 08:30:16 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Jan 2025 08:22:53 +0000</pubDate>
+    <image>
+      <title>NYT &gt; Technology</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/technology</link>
+    </image>
+    <item>
+      <title>How China Is Reacting to DeepSeek Upending the A.I. Race</title>
+      <link>https://www.nytimes.com/2025/01/28/business/deepseek-china-reaction.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/28/business/deepseek-china-reaction.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/28/business/deepseek-china-reaction.html" rel="standout"></atom:link>
+      <description>Social media exploded in a celebration after the news that a Chinese start-up had made an artificial intelligence tool that was more efficient than any in the United States.</description>
+      <dc:creator>Li Yuan</dc:creator>
+      <pubDate>Tue, 28 Jan 2025 19:44:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepSeek Artificial Intelligence Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/01/28/multimedia/28newworld-01-cghv/28newworld-01-cghv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Violeta Santos Moura/Reuters</media:credit>
+      <media:description>The news that the Chinese start-up DeepSeek can build artificial intelligence models that are as good as OpenAI’s, and at a fraction of the cost, sent Silicon Valley into a panic.</media:description>
+    </item>
+    <item>
+      <title>How DeepSeek Went From Stock Trader to A.I. Star</title>
+      <link>https://www.nytimes.com/2025/01/28/business/deepseek-owner-china-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/28/business/deepseek-owner-china-ai.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/28/business/deepseek-owner-china-ai.html" rel="standout"></atom:link>
+      <description>The little-known artificial intelligence firm has emphasized research, even as it emerged as the brainchild of a hedge fund.</description>
+      <dc:creator>Meaghan Tobin, Paul Mozur and Alexandra Stevenson</dc:creator>
+      <pubDate>Tue, 28 Jan 2025 20:53:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepSeek Artificial Intelligence Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Baidu Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beijing Bytedance Technology Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hedge Funds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Liang Wenfeng</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hangzhou High-Flyer AI Fundamental Research Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lu Zhengzhe</category>
+    </item>
+    <item>
+      <title>Why DeepSeek Could Change What Silicon Valley Believe About A.I.</title>
+      <link>https://www.nytimes.com/2025/01/28/technology/china-deepseek-ai-silicon-valley.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/28/technology/china-deepseek-ai-silicon-valley.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/28/technology/china-deepseek-ai-silicon-valley.html" rel="standout"></atom:link>
+      <description>A new A.I. model, released by a scrappy Chinese upstart, has rocked Silicon Valley and upended several fundamental assumptions about A.I. progress.</description>
+      <dc:creator>Kevin Roose</dc:creator>
+      <pubDate>Tue, 28 Jan 2025 10:02:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Open-Source Software</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepSeek Artificial Intelligence Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/01/27/multimedia/ROOSE-market-btgv/ROOSE-market-btgv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Bryan R. Smith/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Markets panicked after DeepSeek’s breakthrough on cost challenged the “bigger is better” narrative that has driven the A.I. arms race in recent years.</media:description>
+    </item>
+    <item>
+      <title>What is DeepSeek? And How Is It Upending A.I.?</title>
+      <link>https://www.nytimes.com/2025/01/27/technology/what-is-deepseek-china-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/27/technology/what-is-deepseek-china-ai.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/27/technology/what-is-deepseek-china-ai.html" rel="standout"></atom:link>
+      <description>How did a little-known Chinese start-up cause the markets and U.S. tech giants to quake? Here’s what to know.</description>
+      <dc:creator>Cade Metz</dc:creator>
+      <pubDate>Tue, 28 Jan 2025 10:35:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepSeek Artificial Intelligence Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/01/27/multimedia/27DEEPSEEK-EXPLAINER-1-01-hpmc/27DEEPSEEK-EXPLAINER-1-01-hpmc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Greg Baker/Agence France-Presse — Getty Images</media:credit>
+      <media:description>DeepSeek is a Chinese start-up run by a quantitative stock trading firm called High-Flyer.</media:description>
+    </item>
+    <item>
+      <title>How DeepSeek Changed the A.I. Game</title>
+      <link>https://www.nytimes.com/video/technology/100000009951972/how-deepseek-changed-the-ai-game.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/technology/100000009951972/how-deepseek-changed-the-ai-game.html</guid>
+      <atom:link href="https://www.nytimes.com/video/technology/100000009951972/how-deepseek-changed-the-ai-game.html" rel="standout"></atom:link>
+      <description>What is DeepSeek, and why did it cause the markets and U.S. tech giants to quake? Cade Metz, a technology reporter for The New York Times who writes about artificial intelligence, explains.</description>
+      <dc:creator>Cade Metz, Claire Hogan and David Jouppi</dc:creator>
+      <pubDate>Tue, 28 Jan 2025 22:48:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepSeek Artificial Intelligence Co Ltd</category>
+    </item>
+    <item>
+      <title>Elon Musk’s X Partners With Visa to Provide Financial Services</title>
+      <link>https://www.nytimes.com/2025/01/28/technology/x-visa-financial-services.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/28/technology/x-visa-financial-services.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/28/technology/x-visa-financial-services.html" rel="standout"></atom:link>
+      <description>The social media company said it would start a peer-to-peer payments service, moving to expand the app’s abilities.</description>
+      <dc:creator>Kate Conger</dc:creator>
+      <pubDate>Tue, 28 Jan 2025 18:37:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Visa Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X (Formerly Twitter)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yaccarino, Linda</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/01/28/multimedia/28x-visa-tfmh/28x-visa-tfmh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>Elon Musk at the inauguration of President Trump at the U.S. Capitol building last week.</media:description>
+    </item>
+    <item>
+      <title>Citing ‘Shadow of Evil,’ Vatican Warns About the Risks of A.I.</title>
+      <link>https://www.nytimes.com/2025/01/28/world/europe/vatican-artificial-intelligence-warning.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/28/world/europe/vatican-artificial-intelligence-warning.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/28/world/europe/vatican-artificial-intelligence-warning.html" rel="standout"></atom:link>
+      <description>A new document examines the opportunities and risks of artificial intelligence and calls for “moral and ethical considerations” to be enshrined in all of its applications.</description>
+      <dc:creator>Elisabetta Povoledo</dc:creator>
+      <pubDate>Wed, 29 Jan 2025 08:22:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/01/28/multimedia/28vatican-ai-fgmj/28vatican-ai-fgmj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Andreas Solaro/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Pope Francis has repeatedly warned that the application of artificial intelligence should be grounded in ethical and moral considerations.</media:description>
+    </item>
+    <item>
+      <title>Chevron Wants to Tap Into A.I. Boom by Selling Electricity to Data Centers</title>
+      <link>https://www.nytimes.com/2025/01/28/business/energy-environment/chevron-power-plant-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/28/business/energy-environment/chevron-power-plant-ai.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/28/business/energy-environment/chevron-power-plant-ai.html" rel="standout"></atom:link>
+      <description>The oil company plans to build natural gas power plants that will be directly connected to data centers used by technology companies for artificial intelligence and other services.</description>
+      <dc:creator>Rebecca F. Elliott</dc:creator>
+      <pubDate>Tue, 28 Jan 2025 13:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Production</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Carbon Capture and Sequestration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chevron Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Engine No 1 GP LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Exxon Mobil Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">GE Vernova Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wirth, Michael K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">James, Chris (Hedge Fund Manager)</category>
+      <media:content height="1024" medium="image" url="https://static01.nyt.com/images/2025/01/28/multimedia/28chevron-power-lktm/28chevron-power-lktm-mediumSquareAt3X.jpg" width="1025"></media:content>
+      <media:credit>David Swanson/Reuters</media:credit>
+      <media:description>“It’s a chance for us to help meet the moment and address this growing need for reliable and affordable power,” Mike Wirth, Chevron’s chief executive, said in an interview.</media:description>
+    </item>
+    <item>
+      <title>G.M. Has Plans Ready for Trump’s Canada and Mexico Tariffs</title>
+      <link>https://www.nytimes.com/2025/01/28/business/general-motors-trump-mexico-canada-tariffs.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/28/business/general-motors-trump-mexico-canada-tariffs.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/28/business/general-motors-trump-mexico-canada-tariffs.html" rel="standout"></atom:link>
+      <description>General Motors, the largest producer of cars in Mexico, won’t provide details on how it would react if President Trump imposes 25 percent tariffs from the two countries.</description>
+      <dc:creator>Neal E. Boudette</dc:creator>
+      <pubDate>Tue, 28 Jan 2025 21:43:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Protectionism (Trade)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sports Utility Vehicles and Light Trucks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Motors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barra, Mary T</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North America</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/01/28/multimedia/28gm-earnings-vjtl/28gm-earnings-vjtl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Brett Carlsen for The New York Times</media:credit>
+      <media:description>A General Motors plant in Spring Hill, Tenn.</media:description>
+    </item>
+    <item>
+      <title>In Seattle, a Meeting of 5,444 Mathematical Minds</title>
+      <link>https://www.nytimes.com/2025/01/28/science/mathematics-ai-conference-jmm.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/28/science/mathematics-ai-conference-jmm.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/28/science/mathematics-ai-conference-jmm.html" rel="standout"></atom:link>
+      <description>Participants at this year’s Joint Mathematics Meetings explored everything from the role of A.I. to the hyperbolic design of a patchwork denim skirt.</description>
+      <dc:creator>Siobhan Roberts</dc:creator>
+      <pubDate>Tue, 28 Jan 2025 17:58:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conventions, Fairs and Trade Shows</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Mathematical Society</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+    </item>
+    <item>
+      <title>How Google Maps Plans to Handle the ‘Gulf of America’</title>
+      <link>https://www.nytimes.com/2025/01/27/technology/google-maps-gulf-of-america-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/27/technology/google-maps-gulf-of-america-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/27/technology/google-maps-gulf-of-america-trump.html" rel="standout"></atom:link>
+      <description>Google said it would follow the Trump administration in renaming the Gulf of Mexico once the new name is updated in government sources.</description>
+      <dc:creator>Nico Grant</dc:creator>
+      <pubDate>Tue, 28 Jan 2025 01:07:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Maps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gulf of Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Names, Geographical</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Geography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gulf of America</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/01/27/multimedia/27google-maps-trump-zhqk/27google-maps-trump-zhqk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>President Trump signed an executive order on Jan. 20 to rename the Gulf of Mexico and switch the name of the tallest mountain in North America from Denali back to Mount McKinley.</media:description>
+    </item>
+    <item>
+      <title>How Does DeepSeek’s A.I. Chatbot Compare to ChatGPT and Other Competitors?</title>
+      <link>https://www.nytimes.com/2025/01/27/technology/deepseek-ai-chatbot-first-impressions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/27/technology/deepseek-ai-chatbot-first-impressions.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/27/technology/deepseek-ai-chatbot-first-impressions.html" rel="standout"></atom:link>
+      <description>The chatbot from China appears to perform a number of tasks as well as its American competitors do, but it censors topics such as Tiananmen Square.</description>
+      <dc:creator>Eli Tan</dc:creator>
+      <pubDate>Mon, 27 Jan 2025 23:33:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">ChatGPT</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepSeek Artificial Intelligence Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/01/27/multimedia/DEEPSEEK-IMPRESSIONS-TIANANMEN-tqzl/DEEPSEEK-IMPRESSIONS-TIANANMEN-tqzl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Greg Baker/Agence France-Presse — Getty Images</media:credit>
+      <media:description>When asked to summarize the 1989 Tiananmen Square massacre, DeepSeek responded that the information was “beyond my current scope.”</media:description>
+    </item>
+    <item>
+      <title>Nvidia Reels After DeepSeek’s A.I. Breakthrough</title>
+      <link>https://www.nytimes.com/2025/01/27/business/deepseek-nvidia-ai-chips.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/27/business/deepseek-nvidia-ai-chips.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/27/business/deepseek-nvidia-ai-chips.html" rel="standout"></atom:link>
+      <description>The tech industry has had an insatiable appetite for Nvidia’s chips over the last two years. But the feast may be over sooner than many had expected.</description>
+      <dc:creator>Tripp Mickle</dc:creator>
+      <pubDate>Mon, 27 Jan 2025 21:43:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepSeek Artificial Intelligence Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2025/01/27/multimedia/27NVIDIA-fgpk/27NVIDIA-fgpk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Stella Kalinina for The New York Times</media:credit>
+      <media:description>Nvidia’s chief executive, Jensen Huang, spoke about his company and A.I. at CES 2025 in Las Vegas earlier this month.</media:description>
+    </item>
+    <item>
+      <title>Oil Companies Embrace Trump, but Not ‘Drill, Baby, Drill’</title>
+      <link>https://www.nytimes.com/2025/01/27/business/energy-environment/oil-trump-drill-baby-drill.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/27/business/energy-environment/oil-trump-drill-baby-drill.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/27/business/energy-environment/oil-trump-drill-baby-drill.html" rel="standout"></atom:link>
+      <description>Oil and gas executives welcomed President Trump’s early moves on energy policy, but many said they did not plan to increase production unless prices rose significantly.</description>
+      <dc:creator>Rebecca F. Elliott</dc:creator>
+      <pubDate>Mon, 27 Jan 2025 17:57:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Production</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pipelines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Transition (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Energy Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2025/01/29/multimedia/00oil-trump-01-hglf/00oil-trump-01-hglf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>An oil platform on the Gulf of Mexico. Just how successful President Trump will be at bending energy markets toward fossil fuels will reveal itself over months and years.</media:description>
+    </item>
+    <item>
+      <title>E.V. Owners Don’t Pay Gas Taxes. So, Many States Are Charging Them Fees.</title>
+      <link>https://www.nytimes.com/2025/01/27/business/ev-fees-gas-tax.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/27/business/ev-fees-gas-tax.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/27/business/ev-fees-gas-tax.html" rel="standout"></atom:link>
+      <description>States are using higher registration fees for electric cars to make up for declining fuel taxes, but some are punitive, environmentalists say. A federal tax could be coming.</description>
+      <dc:creator>Jack Ewing</dc:creator>
+      <pubDate>Mon, 27 Jan 2025 15:24:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sales and Excise Taxes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gasoline Tax (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">State Legislatures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Engines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Highway Trust Fund</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vermont</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2025/01/21/multimedia/00ev-fees-tfwh/00ev-fees-tfwh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Maddie McGarvey for The New York Times</media:credit>
+      <media:description>An electric vehicle charging station in London, Ohio, which is among the states that charge the highest fees to battery-powered car owners.</media:description>
+    </item>
+    <item>
+      <title>Elon Musk, Video Game King? Well, Maybe Not.</title>
+      <link>https://www.nytimes.com/2025/01/26/technology/elon-musk-video-games-diablo-path-of-exile.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/26/technology/elon-musk-video-games-diablo-path-of-exile.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/26/technology/elon-musk-video-games-diablo-path-of-exile.html" rel="standout"></atom:link>
+      <description>Gaming is a big part of the billionaire’s public persona. But other players are questioning whether he has the time or the skill to be as accomplished as he claims.</description>
+      <dc:creator>Eli Tan and Mike Isaac</dc:creator>
+      <pubDate>Sun, 26 Jan 2025 18:58:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer and Video Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cheating</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Diablo IV (Video Game)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Path of Exile (Video Game)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/01/24/business/00musk-gaming/00musk-gaming-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Matt Chase</media:credit>
+    </item>
+    <item>
+      <title>How the New York Times Website Got Its URL</title>
+      <link>https://www.nytimes.com/2025/01/25/insider/nyt-website-url.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/25/insider/nyt-website-url.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/25/insider/nyt-website-url.html" rel="standout"></atom:link>
+      <description>The Times wanted to go online in 1996 with nytimes.com. But the domain was already owned — by a Times reporter.</description>
+      <dc:creator>Megan DiTrolio</dc:creator>
+      <pubDate>Sat, 25 Jan 2025 16:00:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gelb, Arthur</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lewis, Peter H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markoff, John</category>
+    </item>
+    <item>
+      <title>Trump’s Crypto Venture Divides the Industry He Aims to Support</title>
+      <link>https://www.nytimes.com/2025/01/25/us/politics/trumps-crypto-venture-divides-the-industry-he-aims-to-support.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/25/us/politics/trumps-crypto-venture-divides-the-industry-he-aims-to-support.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/25/us/politics/trumps-crypto-venture-divides-the-industry-he-aims-to-support.html" rel="standout"></atom:link>
+      <description>The president’s promotion of a speculative digital coin left some crypto investors feeling blindsided, while others saw it as a gimmick that undermined the industry’s credibility.</description>
+      <dc:creator>David Yaffe-Bellany and Eric Lipton</dc:creator>
+      <pubDate>Sat, 25 Jan 2025 17:26:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Melania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zanker, Bill</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Securities and Exchange Commission</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2025/01/23/us/politics/00dc-trump-crypto1/00dc-trump-crypto1-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jason Andrew for The New York Times</media:credit>
+      <media:description>The surprise announcement that Mr. Trump was launching a new cryptocurrency came on social media while many crypto executives were attending a pre-inaugural ball. </media:description>
+    </item>
+    <item>
+      <title>Tom Green, Former Provocateur, Is Building Something New</title>
+      <link>https://www.nytimes.com/2025/01/25/arts/television/tom-green-show-amazon-prime.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/25/arts/television/tom-green-show-amazon-prime.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/25/arts/television/tom-green-show-amazon-prime.html" rel="standout"></atom:link>
+      <description>A Y2K-era phenomenon most famous for his MTV prank show and surreal brand of comedy, Green pioneered ideas that thrive today.</description>
+      <dc:creator>Maya Salam and Chris Maggio</dc:creator>
+      <pubDate>Sat, 25 Jan 2025 10:00:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Green, Tom (1971- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comedy and Humor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Tom Green Country (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Tom Green Documentary (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">MTV Networks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Tom Green Show (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">I Got a Mule (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Freddy Got Fingered (Movie)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/01/26/multimedia/26tom-green-promo-gmtb/26tom-green-promo-gmtb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Chris Maggio for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>The Surveillance Tools That Could Power Trump’s Immigration Crackdown</title>
+      <link>https://www.nytimes.com/2025/01/25/technology/trump-immigration-deportation-surveillance.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/25/technology/trump-immigration-deportation-surveillance.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/25/technology/trump-immigration-deportation-surveillance.html" rel="standout"></atom:link>
+      <description>Border enforcement agencies have spent billions assembling surveillance tools to track and find people. These could be critical in President Trump’s immigration agenda.</description>
+      <dc:creator>Adam Satariano, Paul Mozur, Aaron Krolik and David McCabe</dc:creator>
+      <pubDate>Sat, 25 Jan 2025 14:31:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Trafficking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Facial Recognition Software</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Contracts and Procurement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Identification Devices</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data-Mining and Database Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cellebrite Mobile Synchronization Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Clearview AI Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Customs and Border Protection (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">LexisNexis Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palantir Technologies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">GEO Group Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/01/23/multimedia/00deport-tech-1-czqj/00deport-tech-1-czqj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Paul Ratje for The New York Times</media:credit>
+      <media:description>Customs and Border Protection agents check the documents of migrants at the Paso Del Norte International Bridge in El Paso, Texas. The U.S. government has built up an arsenal of tech tools over the years.</media:description>
+    </item>
+    <item>
+      <title>TikTok Ban and Trump Executive Order Lead to Tech Company Dilemma</title>
+      <link>https://www.nytimes.com/2025/01/24/technology/tiktok-ban-trump-amazon-apple-google.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/24/technology/tiktok-ban-trump-amazon-apple-google.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/24/technology/tiktok-ban-trump-amazon-apple-google.html" rel="standout"></atom:link>
+      <description>The federal law banning TikTok has revealed a major schism among American tech companies: Some are willing to flout the law — and some, including Apple and Google, are not.</description>
+      <dc:creator>Sapna Maheshwari, Aaron Krolik and Tripp Mickle</dc:creator>
+      <pubDate>Sat, 25 Jan 2025 20:39:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fines (Penalties)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Akamai Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beijing Bytedance Technology Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Oracle Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2025/01/24/multimedia/24tiktok-traffic-hfvc/24tiktok-traffic-hfvc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Erik S Lesser/EPA, via Shutterstock</media:credit>
+      <media:description>The TikTok app stopped working over the weekend, when the U.S. ban took effect. But it came back on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Meta to Increase Spending to $65 Billion This Year in A.I. Push</title>
+      <link>https://www.nytimes.com/2025/01/24/technology/meta-data-center.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/24/technology/meta-data-center.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/24/technology/meta-data-center.html" rel="standout"></atom:link>
+      <description>Much of the capital investment, a big jump from 2024, will fund expansion of Meta’s data centers, which provide the computing power needed by A.I. products and algorithms.</description>
+      <dc:creator>Mike Isaac</dc:creator>
+      <pubDate>Mon, 27 Jan 2025 19:51:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/01/24/multimedia/24meta-data-center-mgkw/24meta-data-center-mgkw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>George Frey/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Meta’s Facebook data center in Eagle Mountain, Utah, last year.</media:description>
+    </item>
+    <item>
+      <title>Quantum TikTok + Memecoin Mania + Chris Hayes on the Attention Wars</title>
+      <link>https://www.nytimes.com/2025/01/24/podcasts/hardfork-tiktok-memecoin-hayes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/24/podcasts/hardfork-tiktok-memecoin-hayes.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/24/podcasts/hardfork-tiktok-memecoin-hayes.html" rel="standout"></atom:link>
+      <description>“We are starting to see how Silicon Valley wants to do business during the Trump administration.”</description>
+      <dc:creator>Kevin Roose, Casey Newton, Rachel Cohn, Whitney Jones, Rachel Dry, Alyssa Moxley, Dan Powell, Marion Lozano, Rowan Niemisto and Diane Wong</dc:creator>
+      <pubDate>Fri, 24 Jan 2025 15:57:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Blockchain (Technology)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hayes, Chris (1979- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/01/24/podcasts/24hardfork-tiktok-limbo-treatment/24hardfork-tiktok-limbo-treatment-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Photo Illustration by Harshal Duddalwar/The New York Times; Photos: Ruth Fremson/The New York Times (Trump); Getty Images (coin)</media:credit>
+    </item>
+    <item>
+      <title>‘Eternal You’ and the Ethics of Using A.I. to ‘Talk’ to Dead Loved Ones</title>
+      <link>https://www.nytimes.com/2025/01/24/movies/eternal-you-ai-grief.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/24/movies/eternal-you-ai-grief.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/24/movies/eternal-you-ai-grief.html" rel="standout"></atom:link>
+      <description>Examining what it means to make money by selling the bereaved on an illusion, the film feels like something of a warning.</description>
+      <dc:creator>Alissa Wilkinson</dc:creator>
+      <pubDate>Fri, 24 Jan 2025 10:00:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Eternal You (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Death and Dying</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Block, Hans (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Riesewieck, Moritz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+    </item>
+    <item>
+      <title>Instagram and Facebook Blocked and Hid Abortion Pill Providers’ Posts</title>
+      <link>https://www.nytimes.com/2025/01/23/technology/instagram-facebook-abortion-pill-providers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/23/technology/instagram-facebook-abortion-pill-providers.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/23/technology/instagram-facebook-abortion-pill-providers.html" rel="standout"></atom:link>
+      <description>Some posts related to obtaining abortion pills were recently hidden on Instagram and Facebook and some accounts were suspended, before being later restored.</description>
+      <dc:creator>Claire Cain Miller, Kate Conger and Mike Isaac</dc:creator>
+      <pubDate>Fri, 24 Jan 2025 04:41:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telemedicine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion Drugs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporate Social Responsibility</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/01/23/multimedia/23meta-abortion-qjcl/23meta-abortion-qjcl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>Mark Zuckerberg, Meta’s chief executive, attending the inauguration ceremony for President Trump. Instagram and Facebook are under scrutiny after Meta made changes to its speech policies.</media:description>
+    </item>
+    <item>
+      <title>In the TikTok Show ‘Famehungry,’ All the World’s an Audience</title>
+      <link>https://www.nytimes.com/2025/01/23/theater/tiktok-theater-famehungry-louise-orwin.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/23/theater/tiktok-theater-famehungry-louise-orwin.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/23/theater/tiktok-theater-famehungry-louise-orwin.html" rel="standout"></atom:link>
+      <description>“Famehungry,” a show that’s performed simultaneously for in-person and online crowds, comes to New York in the wake of the app’s brief ban in the United States.</description>
+      <dc:creator>Annie Aguiar</dc:creator>
+      <pubDate>Thu, 23 Jan 2025 21:54:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Performance Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">SoHo Playhouse</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beijing Bytedance Technology Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Orwin, Louise</category>
+      <media:content height="1668" medium="image" url="https://static01.nyt.com/images/2025/01/25/multimedia/23FAME-01-mlcp/23FAME-01-mlcp-mediumSquareAt3X.jpg" width="1667"></media:content>
+      <media:credit>Amir Hamja for The New York Times</media:credit>
+      <media:description>The performance artist Louise Orwin decided to make a show about TikTok and its frenetic universe after meeting a 15-year-old with 30,000 followers.</media:description>
+    </item>
+    <item>
+      <title>Trump Issues Executive Order to Boost Cryptocurrency Industry</title>
+      <link>https://www.nytimes.com/2025/01/23/technology/trump-crypto-executive-order.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/23/technology/trump-crypto-executive-order.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/23/technology/trump-crypto-executive-order.html" rel="standout"></atom:link>
+      <description>The order signaled that the president intends to promote an industry that faced scrutiny during the Biden administration — and that he has a personal stake in.</description>
+      <dc:creator>David Yaffe-Bellany</dc:creator>
+      <pubDate>Thu, 23 Jan 2025 23:43:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bitcoin (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Liberty Financial</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/01/20/multimedia/00hfo-crypto-order-lkcw/00hfo-crypto-order-lkcw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Trump at a Bitcoin conference in Nashville in July. Last week, he began selling a memecoin.</media:description>
+    </item>
+    <item>
+      <title>OpenAI Unveils New Agent Tool ‘Operator’</title>
+      <link>https://www.nytimes.com/2025/01/23/technology/openai-operator-launch.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/23/technology/openai-operator-launch.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/23/technology/openai-operator-launch.html" rel="standout"></atom:link>
+      <description>The new tool, called Operator, can shop for groceries or book a restaurant reservation. But it still needs help from humans.</description>
+      <dc:creator>Cade Metz</dc:creator>
+      <pubDate>Thu, 23 Jan 2025 19:38:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">ChatGPT</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <media:content height="1620" medium="image" url="https://static01.nyt.com/images/2025/01/23/business/23openai-operator-stills-handout/23openai-operator-stills-handout-mediumSquareAt3X.png" width="1620"></media:content>
+      <media:credit>OpenAI</media:credit>
+      <media:description>OpenAI’s newest tool is an A.I. agent called Operator.</media:description>
+    </item>
+    <item>
+      <title>A Test So Hard No AI System Can Pass It — Yet</title>
+      <link>https://www.nytimes.com/2025/01/23/technology/ai-test-humanitys-last-exam.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/23/technology/ai-test-humanitys-last-exam.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/23/technology/ai-test-humanitys-last-exam.html" rel="standout"></atom:link>
+      <description>The creators of a new test called “Humanity’s Last Exam” argue we may soon lose the ability to create tests hard enough for A.I. models.</description>
+      <dc:creator>Kevin Roose</dc:creator>
+      <pubDate>Thu, 23 Jan 2025 19:38:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests and Examinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Center for AI Safety (CAIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/01/22/business/00roose/00roose-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Rune Fisker</media:credit>
+    </item>
+    <item>
+      <title>How Chinese A.I. Start-Up DeepSeek Is Competing With OpenAI and Google</title>
+      <link>https://www.nytimes.com/2025/01/23/technology/deepseek-china-ai-chips.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/23/technology/deepseek-china-ai-chips.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/23/technology/deepseek-china-ai-chips.html" rel="standout"></atom:link>
+      <description>The company built a cheaper, competitive chatbot with fewer high-end computer chips than U.S. behemoths like Google and OpenAI, showing the limits of chip export control.</description>
+      <dc:creator>Cade Metz and Meaghan Tobin</dc:creator>
+      <pubDate>Mon, 27 Jan 2025 16:29:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Open-Source Software</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepSeek Artificial Intelligence Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+    </item>
+    <item>
+      <title>How Trump Decided to Pardon Silk Road Founder Ross Ulbricht</title>
+      <link>https://www.nytimes.com/2025/01/22/technology/ross-ulbricht-trump-pardon.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/22/technology/ross-ulbricht-trump-pardon.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/22/technology/ross-ulbricht-trump-pardon.html" rel="standout"></atom:link>
+      <description>Libertarian and crypto allies of Ross Ulbricht, who was serving a life sentence for distributing drugs on his Silk Road website, leveraged President Trump’s desire for political support to secure his release.</description>
+      <dc:creator>David Yaffe-Bellany and Ryan Mac</dc:creator>
+      <pubDate>Thu, 23 Jan 2025 01:06:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ulbricht, Ross William</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Silk Road (Web Site)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Amnesties, Commutations and Pardons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Markets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bitcoin (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ulbricht, Lyn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McArdle, Angela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Grenell, Richard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Libertarian Party (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/01/22/multimedia/00ulbricht-ticktock-hcvz/00ulbricht-ticktock-hcvz-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Chip Somodevilla/Getty Images</media:credit>
+      <media:description>Members of the Libertarian Party chanting and demanding the release of Ross Ulbricht, the founder of Silk Road, during the party’s national convention in May.</media:description>
+    </item>
+    <item>
+      <title>Amazon Closes Operations in Quebec, Laying off 1,700 Workers </title>
+      <link>https://www.nytimes.com/2025/01/22/technology/amazon-quebec-closures.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/22/technology/amazon-quebec-closures.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/22/technology/amazon-quebec-closures.html" rel="standout"></atom:link>
+      <description>Unions had gained a foothold in one of the company’s warehouses in the province, though Amazon would not say if there was a connection.</description>
+      <dc:creator>Karen Weise and Vjosa Isai</dc:creator>
+      <pubDate>Thu, 23 Jan 2025 03:13:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Warehouses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Quebec Province (Canada)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/01/22/multimedia/22AMAZON-QUEBEC-01-cjlh/22AMAZON-QUEBEC-01-cjlh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Christinne Muschi/The Canadian Press, via Associated Press</media:credit>
+      <media:description>Workers at Amazon’s warehouse in Laval, Quebec, voted to unionize last year. </media:description>
+    </item>
+    <item>
+      <title>Reddit Users Boycott X Links After Elon Musk’s Gesture at Inaugural Event</title>
+      <link>https://www.nytimes.com/2025/01/22/business/reddit-x-boycott-elon-musk.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/22/business/reddit-x-boycott-elon-musk.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/22/business/reddit-x-boycott-elon-musk.html" rel="standout"></atom:link>
+      <description>A boycott of links to Mr. Musk’s social media platform spread on Reddit this week, after he made a gesture that some likened to a Nazi salute. Others worried about censorship.</description>
+      <dc:creator>Isabella Kwai</dc:creator>
+      <pubDate>Wed, 22 Jan 2025 23:08:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reddit Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X (Formerly Twitter)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boycotts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2025/01/22/multimedia/22xp-reddit1-wkvq/22xp-reddit1-wkvq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dado Ruvic/Reuters</media:credit>
+      <media:description>Some communities on Reddit were shunning content from the social media site X this week.</media:description>
+    </item>
+    <item>
+      <title>South Carolina Utility Wants to Sell Unfinished Nuclear Power Site</title>
+      <link>https://www.nytimes.com/2025/01/22/business/energy-environment/south-carolina-nuclear-power-data-centers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/22/business/energy-environment/south-carolina-nuclear-power-data-centers.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/22/business/energy-environment/south-carolina-nuclear-power-data-centers.html" rel="standout"></atom:link>
+      <description>The utility, Santee Cooper, is trying to sell two nuclear reactors that it abandoned in 2017 as tech companies seek new sources of electricity for data centers.</description>
+      <dc:creator>Danielle Kaye</dc:creator>
+      <pubDate>Wed, 22 Jan 2025 20:42:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">South Carolina Public Service Authority (Santee Cooper)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Wastes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/01/22/multimedia/22sc-nuclear-kgvt/22sc-nuclear-kgvt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Chuck Burton/Associated Press</media:credit>
+      <media:description>The V.C. Summer power plant near Jenkinsville, S.C., in 2016. Construction on two new reactors was halted in 2017 because of delays and cost overruns.</media:description>
+    </item>
+    <item>
+      <title>Why You Might Suddenly Be Following Trump on Instagram and Facebook</title>
+      <link>https://www.nytimes.com/2025/01/22/technology/personaltech/trump-instagram-facebook.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/01/22/technology/personaltech/trump-instagram-facebook.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/01/22/technology/personaltech/trump-instagram-facebook.html" rel="standout"></atom:link>
+      <description>Many Instagram and Facebook users say they are confused about why they are seeing posts from the president and vice president in their feeds. Here’s what to know.</description>
+      <dc:creator>Mike Isaac</dc:creator>
+      <pubDate>Wed, 22 Jan 2025 19:36:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Threads (Mobile App)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X (Formerly Twitter)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Melania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vance, J D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/01/22/multimedia/22META-1-qzhl/22META-1-qzhl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>Some Instagram and Facebook users have found themselves following the president and vice president in the social media apps even though they had not signed up to do so.</media:description>
+    </item>
+  </channel>
+</rss>
